@@ -9,7 +9,7 @@ A Series of Dash Templates Using Dash Mantine
 </div>
 
 
-1. Template 1 interativo
+2. Template 1 interativo
 <div align='center'>
     <img src="img/Template1I.png" width='500' height='400'/>
 </div>
